@@ -47,7 +47,7 @@ bash train_classifieur.sh
 
 ---
 
-## 📊 Features Implemented
+## Features Implemented
 - **Data preprocessing** with missing value handling & normalization
 - **Model training** with fairness-aware evaluation
 - **Metrics**:
